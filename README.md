@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-end`**
 
-👋 Olá! Me chamo Francisco Célio, tenho 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unigrande.
-
-💻 Estou em transição de carreira, dedicando meus estudos e projetos para me tornar um desenvolvedor front-end. Tenho explorado tecnologias como HTML, CSS, JavaScript e frameworks modernos, buscando criar interfaces responsivas, funcionais e com foco na experiência do usuário.
+👋 Olá! Me chamo Francisco Célio, tenho 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unigrande. Estou em transição de carreira, 
+dedicando meus estudos e projetos para me tornar um desenvolvedor front-end. Tenho explorado tecnologias como HTML, CSS, JavaScript e frameworks modernos, buscando 
+criar interfaces responsivas, funcionais e com foco na experiência do usuário.
 
 🚀 Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em soluções reais por meio da programação. Estou construindo minha trajetória na área de tecnologia com foco, dedicação e criatividade.
 
