@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Célio Soares
+# 👨🏽‍💻 Célio Soares
 
 **`Desenvolvedor Front-end`**
 
